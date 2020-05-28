@@ -1,6 +1,13 @@
 Wikifacts
 ==============================
 
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+
+   license
+   reference
+
 The command-line interface prints random facts to your console,
 using the `Wikipedia API <https://en.wikipedia.org/api/rest_v1/#/>`_.
 
